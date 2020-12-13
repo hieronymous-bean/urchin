@@ -1,32 +1,28 @@
 {
-  "_args": [
-    [
-      "feather-icons@4.28.0",
-      "C:\\Users\\Jeffrey\\Desktop\\Projects\\urchin"
-    ]
-  ],
-  "_from": "feather-icons@4.28.0",
+  "_from": "feather-icons",
   "_id": "feather-icons@4.28.0",
   "_inBundle": false,
   "_integrity": "sha512-gRdqKESXRBUZn6Nl0VBq2wPHKRJgZz7yblrrc2lYsS6odkNFDnA4bqvrlEVRUPjE1tFax+0TdbJKZ31ziJuzjg==",
   "_location": "/feather-icons",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
+    "type": "tag",
     "registry": true,
-    "raw": "feather-icons@4.28.0",
+    "raw": "feather-icons",
     "name": "feather-icons",
     "escapedName": "feather-icons",
-    "rawSpec": "4.28.0",
+    "rawSpec": "",
     "saveSpec": null,
-    "fetchSpec": "4.28.0"
+    "fetchSpec": "latest"
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/feather-icons/-/feather-icons-4.28.0.tgz",
-  "_spec": "4.28.0",
-  "_where": "C:\\Users\\Jeffrey\\Desktop\\Projects\\urchin",
+  "_shasum": "e1892a401fe12c4559291770ff6e68b0168e760f",
+  "_spec": "feather-icons",
+  "_where": "C:\\Users\\jeffrey.brown\\Documents\\projects\\urchin",
   "author": {
     "name": "Cole Bemis",
     "email": "cole@colebemis.com",
@@ -35,6 +31,7 @@
   "bugs": {
     "url": "https://github.com/feathericons/feather/issues"
   },
+  "bundleDependencies": false,
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
@@ -44,6 +41,7 @@
     "classnames": "^2.2.5",
     "core-js": "^3.1.3"
   },
+  "deprecated": false,
   "description": "Simply beautiful open source icons",
   "devDependencies": {
     "@commitlint/cli": "^5.2.5",

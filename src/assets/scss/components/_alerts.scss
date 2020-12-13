@@ -20,7 +20,7 @@
 .alert-primary {
     @include themify($themes) {
         color: themed('primary') !important;
-        background-color: rgba(themed('primary'), .05) !important;
+        background-color: rgba(themed('primary'), .1) !important;
         border-color: themed('primary') !important;
     }
 
@@ -35,7 +35,7 @@
 .alert-secondary {
     @include themify($themes) {
         color: themed('secondary') !important;
-        background-color: rgba(themed('secondary'), .05) !important;
+        background-color: rgba(themed('secondary'), .1) !important;
         border-color: themed('secondary') !important;
     }
 
